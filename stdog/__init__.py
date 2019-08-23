@@ -1,6 +1,6 @@
-from . import dynamics
-from . import operators
-from . import utils
+from stdog import dynamics
+from stdog import operators
+from stdog import utils
 
 
 __version__ = "0.0.1"
